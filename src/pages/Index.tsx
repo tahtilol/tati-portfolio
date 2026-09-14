@@ -6,7 +6,7 @@ const contactLinks = {
   email: "mailto:tahti07@icloud.com",
   linkedin: "https://www.linkedin.com/in/tahti08/",
   github: "https://github.com/tahtilol",
-  resume: "/tati-resume.pdf",
+  resume: "/Hernupont_Resume.pdf",
 };
 const projectLinks = {
   vex: "/vex-notebook.pdf",
